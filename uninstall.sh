@@ -1,3 +1,6 @@
+mount -o remount,rw /
+mv  /system/a /system/addon.d
+mount -o remount,ro /
 # Don't modify anything after this
 if [ -f $INFO ]; then
   while read LINE; do
