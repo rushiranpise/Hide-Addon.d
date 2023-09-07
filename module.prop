@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.4
-versionCode=16
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=hideaddond
+name=Hide addon.d folder
+version=v1.0
+versionCode=10
+author=rushiranpise
+description=Uninstall Before OTA/Magisk/Gapps/MODS update
+updateJson=https://raw.githubusercontent.com/rushiranpise/Hide-Addon.d/RE/update.json
